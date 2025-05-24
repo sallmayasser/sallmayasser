@@ -1,8 +1,9 @@
 <h1 align="center">Hi , I'm Salma Yasser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer&center=true&width=600&height=60&color=FFD700&font=Fira+Code&size=35&weight=700">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer&center=true&width=600&height=60&color=c792ea&font=Fira+Code&size=35&weight=700">
 </a>
+
 </p>
 <hr/>
 <h4 align="center">Hi there! I'm a Junior DevOps Engineer with a strong interest in cloud computing, automation, and software delivery.
@@ -12,7 +13,7 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sallmayasser&theme=algolia" alt="salmayasser"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sallmayasser&theme=nightowl" alt="salmayasser"  /></p>
 
 ## 🛠️ My Skills
 
@@ -126,7 +127,7 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 <p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Salma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sallmayasser&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Salma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sallmayasser&show_icons=true&count_private=true&theme=nightowl" height="192px"/></a>
   </p>
 </p>
 <br/>
@@ -137,4 +138,3 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 	<a href="mailto:sallmayasser512@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/sallma-yasser"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
