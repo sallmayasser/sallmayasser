@@ -125,7 +125,6 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 ## 📊 Github Stats
 
 <p> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Salma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sallmayasser&show_icons=true&count_private=true&theme=nightowl" height="192px"/></a>
   </p>
