@@ -51,6 +51,8 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 <p align="left">
   &emsp;
   <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"></a>
+  &emsp;
+  <a href="https://cloud.google.com/"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"></a>
 </p>
 
 ### 👉 Programming languages
