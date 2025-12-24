@@ -131,7 +131,7 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 
 <p> 
   <p align="center">
-    <p align="center"><img src="https://githubcard.com/sallmayasser.svg?d=UaAKJzON" alt="sallmayasser"  /></p>
+    <p align="center"><img src="https://githubcard.com/sallmayasser.svg?d=RFanF0rb" alt="sallmayasser"  /></p>
   </p>
 </p>
 <br/>
