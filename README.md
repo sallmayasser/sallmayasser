@@ -6,14 +6,14 @@
 
 </p>
 <hr/>
-<h4 align="center">Hi there! I'm a Junior DevOps Engineer with a strong interest in cloud computing, automation, and software delivery.
+<h4 align="center">Hi there! I'm a Junior DevOps Engineer at Vodafone with a strong interest in cloud computing, automation, and software delivery.
 I earned my Bachelor’s degree in Computer and Artificial Intelligence from Helwan University in 2024, and I recently completed the ITI Cloud Platform Development Track (9 months) in July 2025.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sallmayasser&label=Profile%20views&color=0e75b6&style=plastic" alt="salmayasser" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sallmayasser&theme=nightowl" alt="salmayasser"  /></p>
+<p align="center"><img src="https://githubcard.com/sallmayasser.svg?d=UaAKJzON" alt="sallmayasser"  /></p>
 
 ## 🛠️ My Skills
 
@@ -25,7 +25,10 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
   &emsp;
      <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></a>
   &emsp;
-     <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-E00?style=flat&logo=redhatopenshift&logoColor=white"></a>
+     <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-E00?style=flat&logo=redhatopenshift&logoColor=white">
+ &emsp;
+     <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux?intcmp=7013a000003Sl4pAAC"><img alt="Redhat" src="https://img.shields.io/badge/Redhat-E00?style=flat&logo=redhat&logoColor=white">	 
+</a>
   &emsp;
     <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"></a>
   &emsp;
@@ -128,7 +131,7 @@ I earned my Bachelor’s degree in Computer and Artificial Intelligence from Hel
 
 <p> 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Salma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sallmayasser&show_icons=true&count_private=true&theme=nightowl" height="192px"/></a>
+    <p align="center"><img src="https://githubcard.com/sallmayasser.svg?d=UaAKJzON" alt="sallmayasser"  /></p>
   </p>
 </p>
 <br/>
